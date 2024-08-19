@@ -1,0 +1,19 @@
+// Project: Tech Hub Event Management System
+// Objective:
+// Using dart programming language, create a command-line application that helps manage and track events within a tech hub. This application will enable the tech hub team to organize events, track attendance, and manage schedules.
+// Features to Implement:
+// Event Management:
+// Add new events with details such as title, date, time, location, and description.
+// Edit or delete existing events.
+// List all upcoming and past events.
+// Attendance Tracking:
+// Register attendees for each event.
+// View the list of attendees for a specific event.
+// Mark attendees as present or absent.
+// Scheduling:
+// List events in chronological order.
+// Check for schedule conflicts.
+// Data Persistence:
+// Store event and attendance data in a file (e.g., JSON or CSV).
+// User Interface:
+// Use Dart’s dart:io package to handle user input and output through the command line.
